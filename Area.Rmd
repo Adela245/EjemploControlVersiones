@@ -8,10 +8,15 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
+# Area circulo
 ```{r}
 r <- 0.5
 
 Area <- pi*r^2
 ```
+#Area cuadrado
+```{r}
+Lado <- 3
 
+AreaCuadrado <- Lado^2
+```
