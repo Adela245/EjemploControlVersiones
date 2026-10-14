@@ -20,3 +20,21 @@ Lado <- 3
 
 AreaCuadrado <- Lado^2
 ```
+
+
+#Area triangulo
+```{r}
+base <- 2
+altura <- 3
+
+AreaTriangulo <- base*altura/2
+```
+
+#Area Rectangulo
+
+```{r}
+l1 <- 3
+l2 <- 5
+AreaRectangulo <- l1*l2
+```
+
