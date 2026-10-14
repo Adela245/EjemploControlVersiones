@@ -38,3 +38,14 @@ l2 <- 5
 AreaRectangulo <- l1*l2
 ```
 
+
+#Area Trapecio
+
+```{r}
+B <- 3
+b <- 2
+h <- 4
+
+AreaTrapecio <- ((B+b)*h)/2
+```
+
